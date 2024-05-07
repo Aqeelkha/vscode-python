@@ -24,3 +24,4 @@ py4j
 bqplot
 K3D
 debugpy
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
