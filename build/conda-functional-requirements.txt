@@ -24,3 +24,4 @@ py4j
 bqplot
 K3D
 debugpy
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
