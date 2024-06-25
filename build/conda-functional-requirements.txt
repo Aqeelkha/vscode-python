@@ -24,3 +24,4 @@ py4j
 bqplot
 K3D
 debugpy
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
