@@ -17,4 +17,4 @@ pyparsing==2.4.5          # via packaging
 pytest==5.3.1
 six==1.13.0               # via packaging
 wcwidth==0.1.7            # via pytest
-zipp==0.6.0               # via importlib-metadata
+zipp==3.19.1               # via importlib-metadata
