@@ -16,3 +16,4 @@ flask
 django
 isort
 pathlib2>=2.2.0 ; python_version<'3.6' # Python 2.7 compatibility (pytest)
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
